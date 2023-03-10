@@ -34,6 +34,7 @@ Operating Environment:
 
  
  Functional Requirements:
+
         REQ-1: User must be logged in.         
         REQ-2: The product must be available. 
         REQ-3: Seller must allow the product to be shipped to the user's location. 
@@ -41,7 +42,8 @@ Operating Environment:
         REQ-5: Buyer should be able to track the shipment. 
 
  
-onfunctional Requirements:
+Nonfunctional Requirements:
+
         1.Performance Requirements:
             The website/app must be fast, interactive and must provide a quick response. In the case of opening applications, forms and saving the settings or sessions there must not be a delay of more than 1-5 seconds. On connection to databases, sorting categories and ordering of products there should be no delays and the operation must be performed in less than 1-5 seconds for opening, sorting, computing, etc. 
 
